@@ -11,7 +11,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-I'm into python programming for a few weeks and in fact of that I'm not really familiar with the codes yet. Therefore I wanted to have my own collection of basic codes I can use when working with python.
+I'm into python programming for a few weeks now and I'm not that familiar with the language yet. Therefore I wanted to have my own collection of basic codes and scripts that I can use when working with python.
 
 ## File Descriptions <a name="files"></a>
 
